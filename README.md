@@ -7,7 +7,7 @@ I am passionate about software development, problem solving, and modern technolo
 This portfolio showcases my skills, projects, certifications, and learning journey 🚀  
 
 
-🎓 Education
+🎓 Education     
 
 B.Tech in Information Technology  
 GL Bajaj Institute of Technology and Management (2023–2026)  
