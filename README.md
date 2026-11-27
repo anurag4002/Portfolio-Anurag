@@ -1,5 +1,4 @@
 # Anurag Mishra · Portfolio
-
 Single-page portfolio built with Next.js (App Router) and plain CSS.
 
 ## Run
@@ -25,5 +24,6 @@ Push to GitHub and import the repo on Vercel. Set `NEXT_PUBLIC_SITE_URL` to the 
 - Title, description, keywords, canonical, Open Graph and Twitter tags in `app/layout.tsx`
 - JSON-LD `Person` and `WebSite` data in `app/layout.tsx`
 - `app/sitemap.ts`, `app/robots.ts`, generated social image in `app/opengraph-image.tsx`
+
 
 The typeface is General Sans (Indian Type Foundry, via Fontshare), self-hosted in `app/fonts`.
